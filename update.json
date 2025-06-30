@@ -1,6 +1,6 @@
 {
-  "F_Version" : 1.0,
-  "F_Url" :"https://devsuprnd.github.io/test/firmware_1.0.ino.bin",
+  "F_Version" : 1.1,
+  "F_Url" :"https://devsuprnd.github.io/testbtswimro/firmware_1.1.ino.bin",
   "S_Version" : 1.0,
-  "S_Url" :"https://devsuprnd.github.io/test/spiffs_1.0.bin"
+  "S_Url" :"https://devsuprnd.github.io/testbtswimro/spiffs_1.0.bin"
 }
